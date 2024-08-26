@@ -13,3 +13,5 @@ Real-Time Decision Making: Implemented algorithms for real-time control of the v
 API Development: Designed and built a user-friendly API for seamless integration of custom models into CARLA.
 Problem-Solving and Critical Thinking: Navigated the challenges of autonomous driving and developed innovative solutions.
 Explore the code and discover the power of Keras and CARLA in the exciting world of self-driving cars!
+
+![self driving car in Carla simulator]([http://url/to/img.png](https://github.com/JordyKieto/Keras_CARLA_SelfDriving/blob/main/rss_stay.gif))

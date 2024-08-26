@@ -15,4 +15,6 @@ In this project, I tackled the complex problem space of autonomous driving by bu
 
 Explore the code and discover the power of Keras and CARLA in the exciting world of self-driving cars!
 
-![self driving car in Carla simulator](https://github.com/JordyKieto/Keras_CARLA_SelfDriving/blob/main/rss_stay.gif)
+<p align="center">
+  <img src="https://github.com/JordyKieto/Keras_CARLA_SelfDriving/blob/main/rss_stay.gif" title="self driving car in Carla simulator">
+</p>

@@ -6,12 +6,13 @@ In this project, I tackled the complex problem space of autonomous driving by bu
 
 ## Data Science Skills Demonstrated:
 
-Neural Network Development: Designed and implemented a neural network architecture suitable for the autonomous driving task.
-Model Training and Optimization: Leveraged training data from the CARLA simulator to optimize the model's performance.
-Sensor Data Processing: Processed and transformed raw sensory data (images, lidar, etc.) into a format suitable for the neural network.
-Real-Time Decision Making: Implemented algorithms for real-time control of the vehicle based on the model's predictions.
-API Development: Designed and built a user-friendly API for seamless integration of custom models into CARLA.
-Problem-Solving and Critical Thinking: Navigated the challenges of autonomous driving and developed innovative solutions.
+* Neural Network Development: Designed and implemented a neural network architecture suitable for the autonomous driving task.
+* Model Training and Optimization: Leveraged training data from the CARLA simulator to optimize the model's performance.
+* Sensor Data Processing: Processed and transformed raw sensory data (images, lidar, etc.) into a format suitable for the neural network.
+* Real-Time Decision Making: Implemented algorithms for real-time control of the vehicle based on the model's predictions.
+* API Development: Designed and built a user-friendly API for seamless integration of custom models into CARLA.
+* Problem-Solving and Critical Thinking: Navigated the challenges of autonomous driving and developed innovative solutions.
+
 Explore the code and discover the power of Keras and CARLA in the exciting world of self-driving cars!
 
 ![self driving car in Carla simulator](https://github.com/JordyKieto/Keras_CARLA_SelfDriving/blob/main/rss_stay.gif)
